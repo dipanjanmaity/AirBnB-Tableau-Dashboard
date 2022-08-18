@@ -8,18 +8,18 @@ AirBnB, as in “Air Bed and Breakfast,” is an online marketplace that connect
 
 ## <img src=https://user-images.githubusercontent.com/106439762/178428775-03d67679-9aa4-4b08-91e9-6eb6ed8faf66.gif  width="48" height="48"> Analysis
 
-    o	KPI’s :-
+    o KPI’s :-
                 o Room Type 
                 o Neighbourhood 
                 o Year of host since
     
-    o	Average prices based on PIN code 
+    o Average prices based on PIN code 
     
-    o	Top Regions based on User Rating 
+    o Top Regions based on User Rating 
     
-    o	 Top Regions based on Bed’s availability
+    o Top Regions based on Bed’s availability
     
-    o	Year Wise Average prices
+    o Year Wise Average prices
     
 
 
