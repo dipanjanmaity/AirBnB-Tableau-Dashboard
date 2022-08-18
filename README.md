@@ -42,28 +42,21 @@ The data below is an example of properly formatted data.
 
 <br>
 
+
 ## <img src="https://img.icons8.com/dusk/48/000000/ios-screenshot.png"/> Screenshots
 
 ![Screenshot (160)](https://user-images.githubusercontent.com/79499162/185296544-7ec8a2f3-4600-4187-8998-c10d59f09eb4.png)
 
 
-##  <img src=https://user-images.githubusercontent.com/106439762/178810087-8f7f8272-0cb8-40cb-a14c-be475569cf7d.gif width="48" height="48"> Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/dipanjanmaity)
+<br>
+
+
+
+##  <img src=https://user-images.githubusercontent.com/106439762/178810087-8f7f8272-0cb8-40cb-a14c-be475569cf7d.gif width="48" height="48"> Tableau Public Link
+- [Click Here](https://public.tableau.com/views/AirBnBDashboard_16607344210720/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 
 
 
-## 🛠 Skills
-
-    •	Structured Query Language (SQL)
-    •	Excel
-    •	Python
-    •	Tableau
-    •	PowerPoint
-    •	MS Word
-
-
-
-
-
-
+##  <img src=https://user-images.githubusercontent.com/106439762/178810087-8f7f8272-0cb8-40cb-a14c-be475569cf7d.gif width="48" height="48"> LinkedIN Profile
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipanjan-maity/)
