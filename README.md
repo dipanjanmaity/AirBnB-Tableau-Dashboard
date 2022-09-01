@@ -53,8 +53,8 @@ The data below is an example of properly formatted data.
 
 
 ##  <img src=https://user-images.githubusercontent.com/106439762/178810087-8f7f8272-0cb8-40cb-a14c-be475569cf7d.gif width="48" height="48"> Tableau Public Link
-- [Click Here](https://public.tableau.com/views/AirBnBDashboard_16607344210720/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
-
+- [Click Here to see the Dashboard](https://public.tableau.com/views/AirBnBDashboard_16607344210720/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+- [Click Here for my Tableau Public Profile](https://public.tableau.com/app/profile/dipanjan.maity#!/?newProfile=&activeTab=0)
 
 
 
