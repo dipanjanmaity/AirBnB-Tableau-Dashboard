@@ -2,7 +2,7 @@
 
 AirBnB, as in “Air Bed and Breakfast,” is an online marketplace that connects people who want to rent out their homes with people who are looking for accommodations in specific locales. In this repository, different parameters of the AirBnB data are analysed and all of my analysis is presented in a dashboard which is made by using **Tableau Public**.
 <br>
-<br>
+
 <p align="center"><a href="https://www.tableau.com/"><img src=https://user-images.githubusercontent.com/106439762/178422441-0ad26a02-d79f-4142-937f-461dcea6d08e.svg><img src=https://user-images.githubusercontent.com/106439762/178422909-f51e0b4a-6358-4488-926f-32fd59e4ca54.svg></a></p>
 
 
