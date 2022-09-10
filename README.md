@@ -13,13 +13,13 @@ AirBnB, as in “Air Bed and Breakfast,” is an online marketplace that connect
                 o Neighbourhood 
                 o Year of host since
     
-    o Average prices based on PIN code 
+    o Average prices based on PIN code. 
     
-    o Top Regions based on User Rating 
+    o Top Regions based on User Rating.
     
-    o Top Regions based on Bed’s availability
+    o Top Regions based on Bed’s availability.
     
-    o Year Wise Average prices
+    o Year Wise Average prices.
     
 
 
